@@ -2,7 +2,6 @@
 BMP Image Modifier is a lightwheight software that enable to you to perform modification on BMP images.
 It was developed in Python langage to be cross-platforms.
 The availabe effects ensure a save of the original file, the software create a whole new file to perform the modifications.
-The sofwtare was made for a school projet as my French BAC project in 2013.
 It comes with a GUI version and a terminal version.
 
 ## Tools / Langage
